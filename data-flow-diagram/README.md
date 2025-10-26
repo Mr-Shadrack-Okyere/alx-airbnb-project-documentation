@@ -39,4 +39,4 @@ It captures the flow between external entities, backend processes, and data stor
 ---
 
 ## Diagram
-![Data Flow Diagram](./data-flow.png)![data-flow.png](https://github.com/user-attachments/assets/50db31ae-cf15-4726-a930-2a5b326e1328)
+![data-flow.png](https://github.com/user-attachments/assets/50db31ae-cf15-4726-a930-2a5b326e1328)
