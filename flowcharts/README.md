@@ -19,4 +19,5 @@ It details the logical steps taken from when a user submits a registration form 
 ---
 
 ## Flowchart
-![User Registration Flowchart](./user-registration-flowchart.png)
+![User Registration Flowchart](https://github.com/user-attachments/assets/d0a6af13-8465-4890-b253-d0fe902c61db)
+
